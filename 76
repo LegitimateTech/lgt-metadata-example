@@ -1,0 +1,30 @@
+{
+  "name": "Unlocked Demo Token (Example)",
+  "image": "https://ipfs.legitimate.tech/ipfs/QmZxHi87WSABAC2Sh4HWckVgTwXrW4GuVHF7f6LnssG5GU",
+  "attributes": [
+    {
+      "value": "LGT Demo Token",
+      "trait_type": "Item Name"
+    },
+    {
+      "value": "Legitimate",
+      "trait_type": "Designed by"
+    },
+    {
+      "value": "Demo Token",
+      "trait_type": "Item Type"
+    },
+    {
+      "value": "One Size",
+      "trait_type": "Size"
+    },
+    {
+      "value": "Demo Token"
+    },
+    {
+      "value": "Physical NFT"
+    }
+  ],
+  "description": "This NFT is for demo and testing purposes",
+  "animation_url": "https://ipfs.legitimate.tech/ipfs/QmYPUVQDYKCC96h4afhdocgNPNZUaVkQp9AELZt1C5qojT"
+}
