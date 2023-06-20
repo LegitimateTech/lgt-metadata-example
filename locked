@@ -1,5 +1,1 @@
-{
-  "name": "Locked Legitimate NFT (Example)",
-  "image": "https://ipfs.legitimate.tech/ipfs/QmZyYrapoxrHzDgG6ovTX23Qx2uWdSmLt3gCULo88jFk6C",
-  "description": "This NFT is locked. Please tap the LGT Tag on the product, open the website presented, and follow the instructions on the screen to unlock. For more information, visit https://lgt.im/lockednft."
-}
+{"name":"Unlocked Demo Token (Example)","image":"https://ipfs.legitimate.tech/ipfs/QmcBt413vhuETPgaXpKpU6X8puA1oLsr8mu426gdEUtHKG","description":"This NFT is for demo and testing purposes","animation_url":"https://ipfs.legitimate.tech/ipfs/QmZXHCJJjZHfjVZbudmix8v1oLX7J3ARzSATAwcQeLp8wk"}
